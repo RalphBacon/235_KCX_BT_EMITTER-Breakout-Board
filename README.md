@@ -4,7 +4,8 @@ Small breakout board for this tiny BT transmitter, with optional components eith
 ![PCB Image](https://user-images.githubusercontent.com/20911308/150676111-3317ddeb-0a33-4980-bce6-2a3a5ac9314d.gif)
 
 Update! If you use a small antenna like this it will increase the range quite considerably (link below):  
-![ExternalAntenna](https://user-images.githubusercontent.com/20911308/150780651-4d7b55ad-d173-4582-aac9-96a1550e2a0e.jpg)
+![ExternalAntenna](https://user-images.githubusercontent.com/20911308/150780651-4d7b55ad-d173-4582-aac9-96a1550e2a0e.jpg)  
+Thanks Dave Harris for this heads up!  
 
 Suggested circuit diagrams from manufacturer:  
 ![Circuit](https://user-images.githubusercontent.com/20911308/150676131-03c511a3-bc2d-49de-a2ed-7208bb38dd2e.jpg)
